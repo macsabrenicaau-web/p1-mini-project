@@ -1,6 +1,6 @@
 name = input("Enter your name: ")
 
-print("Welcome sa three sum calculator: ", name)
+print("Welcome to three sum calculator: ", name)
 
 
 a = int(input("Enter the first Sum number: "))
