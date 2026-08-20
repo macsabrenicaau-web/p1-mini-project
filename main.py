@@ -1,12 +1,12 @@
 name = input("Enter your name: ")
 
-print("Hello!", name)
+print("Welcome sa three sum calculator: ", name)
 
 
-a = int(input("Enter the first addition number: "))
-b = int(input("Enter the second addition number: "))
-c = int(input("Enter the third addition number: "))  
+a = int(input("Enter the first Sum number: "))
+k = int(input("Enter the second Sum number: "))
+i = int(input("Enter the third Sum number: "))  
 
 
 
-print("Sum =", a + b + c)
+print("Sum =", a + k + i)
